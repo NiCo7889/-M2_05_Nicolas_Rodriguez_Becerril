@@ -8,4 +8,4 @@ for palabra in lista_palabras:
         longitud_mayor = len(palabra)
         palabra_mas_larga = palabra
       
-print("la palabra más larga es:", palabra_mas_larga)
+print("la palabra con más caracteres es:", palabra_mas_larga)
